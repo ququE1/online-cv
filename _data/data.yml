@@ -61,13 +61,12 @@ education:
 experiences:
     title: Class Projects
     info: 
-    
 projects:
     title: Projects
     intro: >
-      Worked on varius class projects involving C#, JavaScript, HTML, CSS, .NET, React, Postgresql.
+      Worked on various class projects involving C#, JavaScript, HTML, CSS, .NET, React, Postgresql.
      
-     assignments:
+    assignments:
       - title: PhoneBook
         link: "#hook"
         tagline: "A responsive website template designed to keep a basic list of contacts."
@@ -88,5 +87,5 @@ projects:
       - name: React
         level: 50%
 
-     footer: >
+footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
