@@ -64,15 +64,14 @@ experiences:
 projects:
     title: Projects
     intro: >
-      
-           Worked on varius class projects involving C#, JavaScript, HTML, CSS, .NET, React, Postgresql.
+      Worked on varius class projects involving C#, JavaScript, HTML, CSS, .NET, React, Postgresql.
      
      assignments:
       - title: PhoneBook
         link: "#hook"
         tagline: "A responsive website template designed to keep a basic list of contacts."
 
-     skills:
+    skills:
     title: Skills &amp; Proficiency
 
     toolset:
